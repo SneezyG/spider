@@ -1,4 +1,8 @@
 
+
+# working with the BeautifulSoup module: the preamble
+
+
 from urllib.request import urlopen
 from urllib.request import urlopen
 from urllib.error import HTTPError
